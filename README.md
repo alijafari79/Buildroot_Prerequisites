@@ -1,3 +1,6 @@
 # Buildroot_Prerequisites
 -----------------------------
-### Buildroot Prerequisites
+
+```
+sudo apt install libncursesw5 libncursesw5-dev
+```
