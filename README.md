@@ -2,5 +2,5 @@
 -----------------------------
 
 ```
-sudo apt install libncursesw5 libncursesw5-dev
+sudo apt install libncurses5-dev libncursesw5 libncursesw5-dev
 ```
